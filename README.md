@@ -9,7 +9,7 @@
         <li> 🌱 Actualmente estoy aprendiendo React y React Native</li>
         <li> 👯 Busco colaborar en cualquier proyecto que tenga que ver con la tecnologías. </li>
         <li> 💬 Pregúntame sobre algunos proyectos que desarrolle en c++, c, c#, HTML, CSS, JavaScript, PHP y entre otros. </li>
-        <li> 📫 Cómo contactarme: A través de mi correo de GMAIL: **li-javierjc@gmail.com**</li>
+        <li> 📫 Cómo contactarme: A través de mi correo de GMAIL: li-javierjc@gmail.com</li>
     </ul>
 </section>
 
