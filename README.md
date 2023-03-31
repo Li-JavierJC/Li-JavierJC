@@ -4,6 +4,13 @@
     <h3 align="center">Un apacionado en el desarrollo web. Me gusta apreder nuevas tecnologías y ponerlos en prática</h3>
 </section>
 <section align="left">
+    <h1>Sobre mí</h1>
+    - 🌱 Actualmente estoy aprendiendo React y React Native
+    - 👯 Busco colaborar en cualquier proyecto que tenga que ver con la tecnologías.
+    - 💬 Pregúntame sobre algunos proyectos que desarrolle en c++, c, c#, HTML, CSS, JavaScript, PHP y entre otros.
+    - 📫 Cómo contactarme: A través de mi correo de GMAIL: li-javierjc@gmail.com
+</section>
+<section align="left">
     <h3>🔨 Lenguajes y Herramientas:</h3>
     <section align="center">
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
